@@ -34,6 +34,12 @@ installation and/or the game running.
 2. Install the dependencies.
 3. Build the game.
 
+#Support
+
+You can contact us by sending an email to our designated address.
+
+WuWeiSince2025@outlook.com
+
 > Dependencies:
 > Unity 2022.3.60f1c1 (The latest LTS before 2025/07/12) </br>
 > Visual Studio Community 2022 
