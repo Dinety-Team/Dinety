@@ -34,7 +34,7 @@ installation and/or the game running.
 2. Install the dependencies.
 3. Build the game.
 
-#Support
+# Support
 
 You can contact us by sending an email to our designated address.
 
