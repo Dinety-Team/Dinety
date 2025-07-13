@@ -16,8 +16,9 @@ This game supports Windows 64 bits and Android 64 bits.
 
 ## Android
 
-1. Download the APK file from [GitHub release page](https://github.com/Dinety-Team/Dinety/release).
-2. Install the APK file.
+1. Download the file (.apk) from [GitHub release page](https://github.com/Dinety-Team/Dinety/release).
+2. Install the file (.apk).
+3. Follow your phone's installation guide and ignore the risk tips.
 
 ## Notices
 
