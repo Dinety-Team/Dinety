@@ -39,6 +39,8 @@ installation and/or the game running.
 You can contact us by sending an email to our designated address.
 
 WuWeiSince2025@outlook.com
+jj911@fuckyou.com
+
 
 > Dependencies:
 > Unity 2022.3.60f1c1 (The latest LTS before 2025/07/12) </br>
