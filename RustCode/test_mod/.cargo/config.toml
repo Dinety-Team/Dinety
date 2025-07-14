@@ -1,5 +1,0 @@
-[target.aarch64-linux-android]
-ar = "C:\\AndroidNDK\\android-ndk-r28c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\llvm-ar"
-linker = "C:/AndroidNDK/android-ndk-r28c/toolchains/llvm/prebuilt/windows-x86_64/bin/aarch64-linux-android35-clang.cmd"
-
-[target.x86_64-pc-windows-msvc]
