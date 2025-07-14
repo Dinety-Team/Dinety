@@ -1,0 +1,34 @@
+# Rust
+/target/
+Cargo.lock
+*.rs.bk
+/RustCode/*/target/
+
+# C#
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Bb]uild/
+/[Ll]ogs/
+*.csproj
+*.sln
+
+# IDE & Editor
+.vs/
+.idea/
+.vscode/
+*.suo
+*.user
+
+*.meta
+!.meta
+
+*).md
+
+!/Assets/Plugins/*/*.dll
