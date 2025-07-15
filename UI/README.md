@@ -1,10 +1,11 @@
 # UI
-We are planning to use some 3D models to design and implement them in the game's UI. 
-It can achieve a flipping effect if we use the model designs. 
-We will use Blender to create the models and integrate them into Unity's 3D space directly, using code to carry out their operational logic. 
-We mix the note hit effects with the background dexterously. Utilizing a principle similar to the ripple effect, it will leave a better impression, avoiding powerful visual conflict. It's the first try in the history of rhythm games.
+We plan to utilize 3D models within the game's UI to achieve dynamic flipping effects. 
+These models will be created in Blender and integrated directly into Unity's 3D environment, with operational logic implemented through code. 
+Note-hit effects are skillfully blended with the background using a ripple-inspired technique, creating memorable impressions while minimizing visual dissonance. This innovative approach represents a first in rhythm game design.
+Our code ensures seamless UI model integration and decomposition, maintaining animation fluidity while reducing visual conflicts from disparate UI styles and abrupt animation transitions.
+The Dinety Team is confident our UI design will deliver an enhanced gaming experience with superior visual presentation.
 
 # Notice
-You can use our UI for your personal or public use, but not for commercial use. Please indicate the copyright information when using it.
+You may use our UI for personal or non-commercial public purposes, and study it for learning. Commercial use is prohibited. Please include copyright attribution when using it.
 
-> Making some minor changes and claiming copyright for yourself is allowed.
+> Minor modifications and claiming copyright for your adaptations are permitted.
