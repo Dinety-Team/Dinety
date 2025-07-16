@@ -7,25 +7,18 @@ Our code ensures seamless UI model integration and decomposition, maintaining an
 
 ### The Dinety Team is confident our UI design will deliver an enhanced gaming experience with superior visual presentation.
 
-
 # Legal Notice
-**License:**  
-This work is licensed under the **GNU General Public License v3.0** (GPL-3.0).
+**Permitted Use(Including but not limited to):**  
+  You may use, modify, and distribute this UI for:  
+- All action for personal purposes  
+- Non-commercial open-source projects   
 
-**You are able to:**  
-✔️ Use, study, and modify the software for any purpose (including commercial)  
-✔️ Distribute original or modified copies  
-✔️ Charge fees for physical distribution or warranty protection  
+**Commercial Restrictions:**  
+**All commercial use is expressly prohibited(Including but not limited to):**
+- Paid services or subscriptions  
+- Advertising-funded products  
 
-**Under these conditions:**  
-⚠️ **Copyleft:** All derivative works must be licensed under the same GPL-3.0  
-⚠️ **Source Code:** Provide access to source code when distributing binaries  
-⚠️ **Notice Preservation:** Must retain all original copyright/legal notices  
+**Attribution Requirement:**  
+  When sharing derivatives, **visibly retain** the copyright notice  
 
-**Copyright Attribution Template:**  
-```plaintext
-UI Framework Copyright (c) 2025 Dinety Team  
-This program comes with ABSOLUTELY NO WARRANTY; for details visit:  
-https://www.gnu.org/licenses/gpl-3.0.html  
-This is free software, and you are welcome to redistribute it  
-under certain conditions; refer to the GPLv3 license.
+**UI Framework Copyright (c) 2025 Dinety Team**
