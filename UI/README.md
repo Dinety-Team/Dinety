@@ -22,3 +22,5 @@ Our code ensures seamless UI model integration and decomposition, maintaining an
   When sharing derivatives, **visibly retain** the copyright notice  
 
 **UI Framework Copyright (c) 2025 Dinety Team**
+---
+**– Dinety Team**
