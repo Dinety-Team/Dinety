@@ -1,4 +1,7 @@
 # Dinety
+
+> [简体中文](./README_zh.md)
+
 A storyline direction's rhythm game about dimension.
 
 ---
