@@ -21,6 +21,6 @@ The Dinety Team is confident our UI design will deliver an enhanced gaming exper
 **Attribution Requirement:**  
   When sharing derivatives, **visibly retain** the copyright notice  
 
-**UI Framework Copyright (c) 2025 Dinety Team**
+## UI Framework Copyright (c) 2025 Dinety Team
 ___
 **– Dinety Team**
