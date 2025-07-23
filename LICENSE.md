@@ -1,5 +1,7 @@
 # Non-Commercial Open Source License Terms
 
+> [简体中文](./README_zh.md)
+
 ## Copyright Notice
 Copyright (c) 2025 Dinety Team  
 All code, documentation, and related resources in this project are protected by copyright law.
