@@ -1,6 +1,6 @@
 # Non-Commercial Open Source License Terms
 
-> [简体中文](./LICENCE_zh.md)
+> [简体中文](./LICENSE_zh.md)
 
 ## Copyright Notice
 Copyright (c) 2025 Dinety Team  
