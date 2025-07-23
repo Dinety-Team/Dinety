@@ -1,6 +1,6 @@
 # 非商业性开源许可条款
 
-> [English](./README.md)
+> [English](./LICENSE.md)
 
 ## 版权声明
 Copyright (c) 2025 Dinety Team
