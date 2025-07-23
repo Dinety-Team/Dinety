@@ -1,5 +1,7 @@
 # 非商业性开源许可条款
 
+> [English](./README.md)
+
 ## 版权声明
 Copyright (c) 2025 Dinety Team
 本项目的所有代码、文档及相关资源均受版权法保护。
