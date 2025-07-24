@@ -1,5 +1,6 @@
 # UI
-
+> [简体中文](./README_zh.md)
+---
 > This document presents **Dinety Team's core concepts, exploratory directions, and design philosophy** in the field of User Interface (Hereinafter referred to as UI) design. These principles **stem from rigorous research and innovative thinking, outlining the user experience vision we aspire to achieve.**
 
 > **Key Clarifications:**
