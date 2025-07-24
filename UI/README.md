@@ -29,6 +29,7 @@ Our code ensures:  
 We implement **screen-edge curvature measurement** to dynamically **customize UI components** based on **device-specific screen angles**, ensuring optimal visual alignment.  
 
 **The Dinety Team is confident our UI design will deliver an enhanced gaming experience with superior visual presentation.We are persevering and determined to create a satisfying UI!**
+
 ---
 
 # Legal Notice
@@ -41,9 +42,8 @@ We implement **screen-edge curvature measurement** to dynamically **customize UI
 **All commercial use is expressly prohibited(Including but not limited to):**
 - Paid services or subscriptions  
 - Advertising-funded products  
+
 ---
-> This document presents **Dinety Team's core concepts, exploratory directions, and design philosophy** in the field of User Interface (Hereinafter referred to as UI) design. These principles **stem from rigorous research and innovative thinking, outlining the user experience vision we aspire to achieve.**
----
-## UI Framework Copyright (c) 2025 Dinety Team
+**UI Framework Copyright (c) 2025 Dinety Team**
 ---
 **– Dinety Team**
