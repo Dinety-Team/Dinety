@@ -19,6 +19,7 @@ obj/
 *.csproj
 *.sln
 
+
 # IDE & Editor
 .vs/
 .idea/
