@@ -55,7 +55,7 @@ namespace YourAppNamespace
                     Log.Debug("ScreenCurvature", $"B3 (Bottom-Left): {_activity.B3}");
                     Log.Debug("ScreenCurvature", $"B4 (Bottom-Right): {_activity.B4}");
 
-                    _activity.UpdateUIWithCurvature(_activity.B1, _activity.B2, _activity.B3, _activity.B4);
+_activity.UpdateUIWithCurvature(_activity.B1, _activity.B2, _activity.B3, _activity.B4);
                 }
 
                 return view.OnApplyWindowInsets(insets);
