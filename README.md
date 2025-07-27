@@ -21,19 +21,18 @@ This game supports **Windows `x86_64`** and **Android `arm64`**.
 
 1. Download the file (.apk) from [GitHub release page](https://github.com/Dinety-Team/Dinety/release).
 2. Install the file (.apk).
+---
 
-### Notices
-
-Some antivirus software may block the installation
+>[!TIP]
+>Some antivirus software may block the installation
 (Windows/Android) and/or the game running (Windows)
-
-Please make sure your antivirus software will not block the 
+>Please make sure your antivirus software will not block the 
 installation and/or the game running.
 
-Solutions:
-Windows: Disable your antivirus software or add the game to your exclusion list.
-Android: Cut the connection to the internet.
-
+>[!IMPORTANT]
+>Windows: `Disable your antivirus software` or add the game to your `exclusion list`.
+>Android: `Cut the connection `to the internet.
+---
 ## Build from Source Code (Not Available Now & Windows Only)
 
 ### 1.Install Dependencies
@@ -64,11 +63,12 @@ cargo build --release
     - `*` means any (all) folder.
 
 4. Open Unity Editor, build the game.
-
+---
 ## Contact us
 
 Commit an **Issue** to report bugs or provide suggestions.
 
+---
 ## License
 
 This project is licensed under the [GPL v3.0 License](LICENSE.md).
@@ -76,3 +76,4 @@ This project is licensed under the [GPL v3.0 License](LICENSE.md).
 [Original Text](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
 
 ---
+**Dinety Copyright (c) 2025 Dinety Team**
