@@ -24,15 +24,15 @@ This game supports **Windows `x86_64`** and **Android `arm64`**.
 
 ### Notices
 
+<span style="background-color: #6de6dd; color: black;">
 Some antivirus software may block the installation
-(Windows/Android) and/or the game running (Windows)
+and/or the game running.
+</span>
 
-Please make sure your antivirus software will not block the 
-installation and/or the game running.
 
 Solutions:
-Windows: Disable your antivirus software or add the game to your exclusion list.
-Android: Cut the connection to the internet.
+- Windows: Disable your antivirus software or add the game to your exclusion list.
+- Android: In many cases, you can ignore the antivirus tips or cut the internet connection to install. 
 
 ## Build from Source Code (Not Available Now & Windows Only)
 

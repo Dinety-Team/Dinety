@@ -24,9 +24,9 @@
 
 ### 注意事项
 
-安装与/或运行过程中可能会弹出病毒警告以阻止游戏的安装和/或运行. 如果出现, 可以按照以下方法解决: 
+<span style="background-color: #6de6dd; color: black;">在安装和/或运行过程中可能会弹出病毒警告以阻止游戏的安装和/或运行. 如果出现, 可以按照以下方法解决</span>: 
 - Windows: 关闭设备上的杀毒软件 (例如: Windows Defender) 或将程序添加到白名单.
-- Android: 断网安装.
+- Android: 大多数情况下, 你可以无视风险安装; 如果实在不行, 可以尝试关闭网络连接.
 
 ## 从源代码构建 (尚未可用 & Windows only)
 
@@ -45,11 +45,11 @@
 ### 2. 构建项目
 
 1. 在 `Git Bash` 中通过以下命令将仓库克隆到本地:
-```
+```bash
 git clone https://github.com/Dinety-Team/Dinety.git
 ```
 2. 打开 `RustCode` 文件夹, 在文件夹下每个目录下执行: 
-```
+```pwsh
 cargo build --release
 ```
 将 `/target/release` 下的 `.dll` 文件复制到 `Assets` 文件夹下的 `plugins/x86_64` 文件夹.
