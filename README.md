@@ -24,10 +24,8 @@ This game supports **Windows `x86_64`** and **Android `arm64`**.
 
 ### Notices
 
-<span style="background-color: #6de6dd; color: black;">
-Some antivirus software may block the installation
-and/or the game running.
-</span>
+==Some antivirus software may block the installation
+and/or the game running.==
 
 
 Solutions:
