@@ -24,8 +24,8 @@ This game supports **Windows `x86_64`** and **Android `arm64`**.
 
 ### Notices
 
-==Some antivirus software may block the installation
-and/or the game running.==
+Some antivirus software may block the installation
+and/or the game running.
 
 
 Solutions:
