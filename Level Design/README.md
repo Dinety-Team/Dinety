@@ -1,4 +1,36 @@
-# Level Design
-Dinety is going to use the C# code to design the music's rhythm levels design and upload the code in the Unity engine directly.
-We will try our best to design some good levels with our storyline and our understanding in the music.
-We will show all the free levels in this file,you are able to learn and use the code in the open source way.We are welcome you use the similar code to us to do your self-makeing levels with our authorized song and other song with our UI, but note the copyright information if you use other song without our authorized.But not for commercial use. If you want to avoid some copyright problems, You can use it in personal use community use.
+# Charts Design
+
+Dinety uses 'C# code' to design rhythm game levels synchronized with music, implementing them directly in 'Unity'. We strive to create quality levels based on our 'storyline' and 'musical interpretation'. 
+
+## Open-Source Resources
+All free levels include:
+- Complete C# scripts 
+- Level design files
+- Configuration assets
+
+## Usage Terms
+You may:
+Learn from and reuse our code  
+Create derivative levels using:
+   - Our UI system
+   - Authorized Dinety songs
+   - Third-party songs (with proper licensing)
+Share creations for personal/community use
+
+## Important Restrictions
+Commercial use prohibited  
+Unauthorized monetization  
+Distribution of Dinety's original assets
+
+## Copyright Notice
+When using third-party songs:
+1. You assume all copyright responsibility  
+2. Must obtain appropriate licenses  
+3. Usage limited to:
+   - Personal projects
+   - Non-profit community sharing
+
+> **Disclaimer**: These terms don't override local copyright laws. When using non-Dinety content, compliance is solely your responsibility.
+
+---
+**Charts Design Copyright (c) 2025 Dinety Team**
