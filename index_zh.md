@@ -1,4 +1,4 @@
-# 索引
+# 代码索引
 
 > [English](./index.md)
 
