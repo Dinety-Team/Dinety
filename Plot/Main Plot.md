@@ -17,6 +17,14 @@
 ## [Chapter 2 :](./cpt2.md)
 ### The introduction of Dimentions and who want to destroy the Dimensions
 
+## [Chapter 3 :](./cpt3.md)
+### 
+
+## [Chapter 4 :](./cpt4.md)
+### 
+
+## [Chapter 5 :](./cpt5.md)
+###
 ---
 ## Plot Framework Copyright (c) 2025 Dinety Team
 ---
