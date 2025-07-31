@@ -1,0 +1,6 @@
+[book]
+authors = ["SCE21427"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Dinety-Doc"
