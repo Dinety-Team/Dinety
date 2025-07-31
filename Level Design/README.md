@@ -1,6 +1,6 @@
 # Charts Design
 
-Dinety uses 'C# code' to design rhythm game levels synchronized with music, implementing them directly in 'Unity'. We strive to create quality levels based on our 'storyline' and 'musical interpretation'. 
+Dinety uses `C# code` to design rhythm game levels synchronized with music, implementing them directly in `Unity`. We strive to create quality levels based on our `storyline` and `musical interpretation`. 
 
 ## Open-Source Resources
 All free levels include:
