@@ -1,5 +1,10 @@
 # Dinety 
+
+
 > [English](./README.md)
+>
+> [Français](README_fr.md)
+
 ---
 
 一款关于“维度”、以剧情为导向的节奏游戏。
@@ -67,5 +72,5 @@ cargo build --release
 在 GitHub 中提交 Issue 以反馈bug/提供建议.
 
 ---
-
+Dinety Copyright (c) 2025 Dinety Team
 
