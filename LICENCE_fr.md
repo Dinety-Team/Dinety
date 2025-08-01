@@ -1,6 +1,6 @@
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 juin 2007
-(Ces termes de licence en français ne sont fournis qu'à titre indicatif. Sur le plan juridique, **la version originale en anglais reste toujours la version autoritative**. En cas d'ambiguïté, veuillez vous référer au texte original en anglais.)
+>(Ces termes de licence en français ne sont fournis qu'à titre indicatif. Sur le plan juridique, **la version originale en anglais reste toujours la version autoritative**. En cas d'ambiguïté, veuillez vous référer au texte original en anglais.)
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Toute personne est autorisée à copier et distribuer des copies conformes
