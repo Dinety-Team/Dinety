@@ -1,7 +1,7 @@
 # GNU GENERAL PUBLIC LICENSE
 ##### Version 3, 29 juin 2007
 
->(Ces termes de licence en français ne sont fournis qu'à titre indicatif. Sur le plan juridique, **la version originale en anglais reste toujours la version autoritative**. En cas d'ambiguïté, veuillez vous référer au texte original en anglais.)
+>Ces termes de licence en français ne sont fournis qu'à titre indicatif. Sur le plan juridique, **la version originale en anglais reste toujours la version autoritative**. En cas d'ambiguïté, veuillez vous référer au texte original en anglais.
 
 ---
 
@@ -609,9 +609,9 @@ d'une renonciation absolue à toute responsabilité civile en rapport avec le
 Programme, à moins qu'une garantie ou une prise de responsabilité n'accompagne une
 copie du Programme en échange d'une redevance.
 
-                     FIN DES CONDITIONS ET TERMES
+**FIN DES CONDITIONS ET TERMES**
 
-            Comment appliquer ces termes à vos nouveaux programmes
+## Comment appliquer ces termes à vos nouveaux programmes
 
   Si vous développez un nouveau programme et que vous voulez qu'il soit du plus grand
 utilité possible pour le public, la meilleure façon d'y parvenir est d'en faire
