@@ -63,7 +63,7 @@ cargo build --release
 
 ## 许可证
 
-本项目采用[GPL v3.0 许可证](LICENSE.md). 
+本项目采用[GPL v3.0 许可证](LICENSE_zh.md). 
 
 [许可证原文](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
 
