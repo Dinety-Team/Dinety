@@ -79,7 +79,7 @@ Ouvrez une **Issue** pour signaler des bugs ou faire des suggestions.
 
 ## Licence
 
-Ce projet est sous licence [GPL v3.0](LICENSE.md).
+Ce projet est sous licence [GPL v3.0](LICENSE_fr.md).
 
 [Texte original](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
 
