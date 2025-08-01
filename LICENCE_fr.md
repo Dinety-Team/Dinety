@@ -1,12 +1,15 @@
-                    GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 juin 2007
+# GNU GENERAL PUBLIC LICENSE
+##### Version 3, 29 juin 2007
+
 >(Ces termes de licence en français ne sont fournis qu'à titre indicatif. Sur le plan juridique, **la version originale en anglais reste toujours la version autoritative**. En cas d'ambiguïté, veuillez vous référer au texte original en anglais.)
+
+---
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Toute personne est autorisée à copier et distribuer des copies conformes
  de ce document de licence, mais la modifier n'est pas autorisé.
 
-                            Préambule
+## Préambule
 
   La GNU General Public License est une licence libre, copyleft, pour
 les logiciels et autres types d'œuvres.
@@ -68,9 +71,9 @@ les brevets ne peuvent pas être utilisés pour rendre le programme non libre.
   Les termes et conditions précis pour la copie, la distribution et
 la modification suivent.
 
-                       CONDITIONS ET TERMES
+## CONDITIONS ET TERMES
 
-  0. Définitions.
+### 0. Définitions.
 
   "Cette Licence" fait référence à la version 3 de la GNU General Public License.
 
@@ -109,7 +112,7 @@ mesure où des garanties sont fournies), que les titulaires de licence peuvent t
 l'interface présente une liste de commandes ou d'options utilisateur, comme un
 menu, un élément important de la liste répond à ce critère.
 
-  1. Code source.
+### 1. Code source.
 
   Le "code source" d'une œuvre désigne la forme préférée de l'œuvre
 pour y apporter des modifications.  "Code objet" désigne toute forme non source
@@ -151,7 +154,7 @@ Correspondant.
   Le Code Source Correspondant pour une œuvre sous forme de code source est cette
 même œuvre.
 
-  2. Permissions de base.
+### 2. Permissions de base.
 
   Tous les droits accordés sous cette Licence sont accordés pour la durée du
 droit d'auteur sur le Programme, et sont irrévocables à condition que les
@@ -176,7 +179,7 @@ votre matériel protégé par le droit d'auteur en dehors de leur relation avec 
 les conditions énoncées ci-dessous.  La sous-licence n'est pas autorisée ; la section 10
 la rend inutile.
 
-  3. Protection des droits légaux des utilisateurs contre les lois anti-contournement.
+### 3. Protection des droits légaux des utilisateurs contre les lois anti-contournement.
 
   Aucune œuvre couverte ne sera considérée comme faisant partie d'une mesure technologique
 efficace en vertu de toute loi applicable remplissant des obligations en vertu de l'article
@@ -192,7 +195,7 @@ modification de l'œuvre comme moyen de faire respecter, contre les utilisateurs
 vos droits légaux ou ceux de tiers pour interdire le contournement des
 mesures technologiques.
 
-  4. Transmission de copies conformes.
+### 4. Transmission de copies conformes.
 
   Vous pouvez transmettre des copies conformes du code source du Programme tel que vous
 le recevez, sur tout support, à condition que vous publiiez de manière visible et
@@ -205,7 +208,7 @@ les destinataires une copie de cette Licence ainsi que du Programme.
   Vous pouvez facturer n'importe quel prix ou ne pas facturer chaque copie que vous transmettez,
 et vous pouvez offrir un support ou une protection de garantie moyennant paiement.
 
-  5. Transmission de versions modifiées du code source.
+### 5. Transmission de versions modifiées du code source.
 
   Vous pouvez transmettre une œuvre basée sur le Programme, ou les modifications pour
 la produire à partir du Programme, sous la forme de code source sous les
@@ -239,7 +242,7 @@ au-delà de ce que les œuvres individuelles permettent.  L'inclusion d'une œuv
 dans un agrégat ne fait pas que cette Licence s'applique aux autres
 parties de l'agrégat.
 
-  6. Transmission de formes non sources.
+### 6. Transmission de formes non sources.
 
   Vous pouvez transmettre une œuvre couverte sous forme de code objet selon les termes
 des sections 4 et 5, à condition que vous transmettiez également le
@@ -333,7 +336,7 @@ documenté (et avec une implémentation disponible publiquement sous
 forme de code source), et ne doivent nécessiter aucun mot de passe ou clé spécial pour
 la décompression, la lecture ou la copie.
 
-  7. Termes supplémentaires.
+### 7. Termes supplémentaires.
 
   "Autorisations supplémentaires" sont des termes qui complètent les termes de cette
 Licence en prévoyant des exceptions à une ou plusieurs de ses conditions.
@@ -392,7 +395,7 @@ où trouver les termes applicables.
 forme d'une licence écrite séparément, ou énoncés comme des exceptions ;
 les exigences ci-dessus s'appliquent dans les deux cas.
 
-  8. Résiliation.
+### 8. Résiliation.
 
   Vous ne pouvez pas propager ou modifier une œuvre couverte sauf expressément
 prévu sous cette Licence.  Toute tentative autrement de propager ou
@@ -420,7 +423,7 @@ cette Licence.  Si vos droits ont été résiliés et non définitivement
 rétablis, vous ne remplissez pas les conditions pour recevoir de nouvelles licences pour le même
 matériel en vertu de la section 10.
 
-  9. Acceptation non requise pour avoir des copies.
+### 9. Acceptation non requise pour avoir des copies.
 
   Vous n'êtes pas obligé d'accepter cette Licence pour recevoir ou
 exécuter une copie du Programme.  La propagation accessoire d'une œuvre couverte
@@ -431,7 +434,7 @@ modifier une œuvre couverte.  Ces actions enfreignent le droit d'auteur si vous
 n'acceptez pas cette Licence.  Par conséquent, en modifiant ou propageant une
 œuvre couverte, vous indiquez votre acceptation de cette Licence pour le faire.
 
-  10. Octroi automatique de licence aux destinataires en aval.
+### 10. Octroi automatique de licence aux destinataires en aval.
 
   Chaque fois que vous transmettez une œuvre couverte, le destinataire reçoit automatiquement
 une licence des concédants de licence originaux, pour exécuter, modifier et
@@ -456,7 +459,7 @@ droits accordés en vertu de cette Licence, et vous ne pouvez pas engager de lit
 toute revendication de brevet est enfreinte par la fabrication, l'utilisation, la vente, l'offre de
 vente ou l'importation du Programme ou de toute partie de celui-ci.
 
-  11. Brevets.
+### 11. Brevets.
 
   Un "contributeur" est un titulaire de droit d'auteur qui autorise l'utilisation sous cette
 Licence du Programme ou d'une œuvre sur laquelle le Programme est basé.  L'
@@ -525,7 +528,7 @@ ou que cette licence de brevet a été accordée, avant le 28 mars 2007.
 toute licence implicite ou autres défenses à la contrefaçon qui pourraient
 autrement être à votre disposition en vertu de la loi applicable sur les brevets.
 
-  12. Pas d'abandon de la liberté des autres.
+### 12. Pas d'abandon de la liberté des autres.
 
   Si des conditions vous sont imposées (que ce soit par ordonnance du tribunal, accord ou
 autrement) qui contredisent les conditions de cette Licence, elles ne vous
@@ -537,7 +540,7 @@ pouvez pas la transmettre du tout.  Par exemple, si vous acceptez des termes qui
 le Programme, la seule façon dont vous pourriez satisfaire à la fois ces termes et cette
 Licence serait de vous abstenir entièrement de transmettre le Programme.
 
-  13. Utilisation avec la Licence Publique Générale GNU Affero.
+### 13. Utilisation avec la Licence Publique Générale GNU Affero.
 
   Nonobstant toute autre disposition de cette Licence, vous avez
 l'autorisation de lier ou combiner toute œuvre couverte avec une œuvre sous licence
@@ -548,7 +551,7 @@ mais les exigences spéciales de la Licence Publique Générale GNU Affero,
 section 13, concernant l'interaction via un réseau s'appliqueront à la
 combinaison en tant que telle.
 
-  14. Versions révisées de cette Licence.
+### 14. Versions révisées de cette Licence.
 
   La Free Software Foundation peut publier des versions révisées et/ou nouvelles de
 la Licence Publique Générale GNU de temps en temps.  Ces nouvelles versions seront
@@ -574,7 +577,7 @@ Cependant, aucune obligation supplémentaire n'est imposée à aucun
 auteur ou titulaire de droit d'auteur du fait de votre choix de suivre une
 version ultérieure.
 
-  15. Exclusion de garantie.
+### 15. Exclusion de garantie.
 
   IL N'Y A AUCUNE GARANTIE POUR LE PROGRAMME, DANS LA MESURE AUTORISÉE PAR
 LA LOI APPLICABLE.  SAUF MENTION CONTRAIRE ÉCRITE, LES DÉTENTEURS DU DROIT D'AUTEUR ET/OU
@@ -585,7 +588,7 @@ LE RISQUE TOTAL QUANT À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME VOUS
 INCOMBE.  SI LE PROGRAMME S'AVÈRE DÉFECTUEUX, VOUS ASSUMEZ LE COÛT DE
 TOUT SERVICE, RÉPARATION OU CORRECTION NÉCESSAIRE.
 
-  16. Limitation de responsabilité.
+### 16. Limitation de responsabilité.
 
   EN AUCUN CAS, SAUF SI LA LOI L'EXIGE OU SI UN ACCORD ÉCRIT LE PRÉVOIT, UN
 DÉTENTEUR DE DROIT D'AUTEUR, OU TOUTE AUTRE PARTIE MODIFIANT ET/OU TRANSMETTANT
@@ -597,7 +600,7 @@ OU UN DÉFAUT FONCTIONNEMENT DU PROGRAMME AVEC D'AUTRES PROGRAMMES),
 MÊME SI UN TEL DÉTENTEUR OU AUTRE PARTIE A ÉTÉ AVISÉ DE LA POSSIBILITÉ DE
 TELS DOMMAGES.
 
-  17. Interprétation des sections 15 et 16.
+### 17. Interprétation des sections 15 et 16.
 
   Si l'exclusion de garantie et la limitation de responsabilité fournies
 ci-dessus ne peuvent pas avoir d'effet juridique local selon leurs termes,
