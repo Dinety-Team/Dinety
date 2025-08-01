@@ -1,6 +1,12 @@
 [book]
 authors = ["SCE21427"]
-language = "en"
+language = "zh-cn"
 multilingual = false
 src = "src"
 title = "Dinety-Doc"
+
+[build]
+build-dir = "../../book/zh"
+
+[output.html]
+mathjax-support = true

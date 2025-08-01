@@ -1,0 +1,52 @@
+name: Deploy mdbook to GitHub Pages
+
+on:
+  push:
+    branches: [SCE]
+    # 添加路径过滤：只有指定目录/文件更改时才触发
+    paths:
+      - 'docs/**'
+      - '.github/workflows/deploy.yml'
+  workflow_dispatch:   # 保留手动触发选项
+
+jobs:
+  deploy:
+    # 添加条件判断：仅当 mdbook 文件有变更时才运行
+    if: ${{ contains(github.event.head_commit.modified, 'docs/mdbook_zh/src/') || contains(github.event.head_commit.modified, 'docs/mdbook_zh/book.toml') || contains(github.event.head_commit.added, 'docs/mdbook_zh/src/') || contains(github.event.head_commit.modified, 'docs/mdbook_en/src/') || contains(github.event.head_commit.modified, 'docs/mdbook_en/book.toml/') || contains(github.event.head_commit.modified, 'docs/mdbook_zh/book.toml') || contains(github.event.head_commit.added, 'docs/mdbook_zh/src/') }}
+    
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        lang: [zh, en]
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup mdBook
+        uses: peaceiris/actions-mdbook@v1
+        with:
+          mdbook-version: "0.4.52"
+
+      - name: Build mdbook_${{ matrix.lang }}
+        run: |
+            cd docs/mdbook_${{ matrix.lang }}
+            mdbook build --dest-dir ../../../book/${{ matrix.lang }}
+
+      - name : Prepare Deployment
+        if: matrix.lang == 'en'
+        run: |
+          mkdir -p public/
+          cp -r book/* public/ || echo "No build output"
+          cp docs/index.html public/index.html
+          #if [ -d ""]
+
+          # 添加重定向首页（可选）
+          # echo '<!DOCTYPE html><meta http-equiv="refresh" content="0; url=/en/">' > public/index.html
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          keep_files: false
