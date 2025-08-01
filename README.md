@@ -1,6 +1,6 @@
 # Dinety
 
-> [简体中文](./README_zh.md)
+> [简体中文](./README_zh.md) | [繁體中文(香港特別行政區)](./README_zh-hk.md) | [繁體中文(台灣省)](./README_zh-tw.md) | [文言](./README_zh-lt.md)
 
 A storyline direction's rhythm game about dimension.
 
