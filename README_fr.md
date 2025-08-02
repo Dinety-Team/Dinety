@@ -30,13 +30,13 @@ Ce jeu supporte **Windows `x86_64`** et **Android `arm64`**.
 
 ---
 
->[!TIP]
+>### Avis
 >Certains logiciels antivirus peuvent bloquer l'installation
 (Windows/Android) et/ou le fonctionnement du jeu (Windows)
 >Assurez-vous que votre logiciel antivirus ne bloquera pas 
 l'installation et/ou le fonctionnement du jeu.
 
->[!IMPORTANT]
+>### Solution
 >Windows : `Désactivez votre logiciel antivirus` ou ajoutez le jeu à votre `liste d'exclusions`.
 >Android : `Coupez la connexion` à Internet.
 
