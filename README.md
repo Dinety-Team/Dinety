@@ -8,6 +8,7 @@
 > [粵語](./README_yue.md)
 > [Deutsch](./README_de.md)
 > [Русский](./README_ru.md)
+> [文言文本](./README_wen.md)
 
 A storyline direction's rhythm game about dimension.
 
