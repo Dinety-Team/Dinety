@@ -1,5 +1,6 @@
 # Dinety
 
+> [English](./README.md)
 > [简体中文](./README_zh.md)
 > [Français](README_fr.md)
 > [日本語](./README_ja.md)
@@ -7,6 +8,7 @@
 > [粵語](./README_yue.md)
 > [Deutsch](./README_de.md)
 > [Русский](./README_ru.md)
+> [文言文本](./README_wen.md)
 
 차원을 주제로 한 스토리 지향 리듬 게임.
 
