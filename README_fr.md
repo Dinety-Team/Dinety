@@ -1,5 +1,6 @@
 # Dinety
 
+> [English](./README.md)
 > [简体中文](./README_zh.md)
 > [日本語](./README_ja.md)
 > [한국어](./README_ko.md)
@@ -7,6 +8,7 @@
 > [粵語](./README_yue.md)
 > [Deutsch](./README_de.md)
 > [Русский](./README_ru.md)
+> [文言文本](./README_wen.md)
 
 Jeu de rythme narratif sur le thème des dimensions.
 
