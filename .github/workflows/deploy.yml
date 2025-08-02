@@ -9,10 +9,12 @@ on:
     branches: [ "SCE" ]
     paths: 
       - 'docs/**'
+      - 'mdbook_zh/**'
   pull_request:
     branches: [ "SCE" ]
     paths: 
       - 'docs/**'
+      - 'mdbook_zh/**'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch: 
