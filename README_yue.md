@@ -3,8 +3,8 @@
 > [简体中文](./README_zh.md)
 > [Français](README_fr.md)
 > [日本語](./README_ja.md)
+
 > [한국어](./README_ko.md)
-> [粵語](./README_yue.md)
 > [Deutsch](./README_de.md)
 > [Русский](./README_ru.md)
 
