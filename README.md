@@ -23,15 +23,14 @@ This game supports **Windows `x86_64`** and **Android `arm64`**.
 
 1. Download the file (.apk) from [GitHub release page](https://github.com/Dinety-Team/Dinety/release).
 2. Install the file (.apk).
----
 
->[!TIP]
+>### Notice
 >Some antivirus software may block the installation
 (Windows/Android) and/or the game running (Windows)
 >Please make sure your antivirus software will not block the 
 installation and/or the game running.
 
->[!IMPORTANT]
+>### Solution
 >Windows: `Disable your antivirus software` or add the game to your `exclusion list`.
 >Android: `Cut the connection `to the internet.
 ---
