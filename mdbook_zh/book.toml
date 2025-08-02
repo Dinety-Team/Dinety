@@ -6,7 +6,7 @@ src = "src"
 title = "Dinety-Doc"
 
 [build]
-build-dir = "../../book/zh"
+build-dir = "../docs/book"
 
 [output.html]
 mathjax-support = true
