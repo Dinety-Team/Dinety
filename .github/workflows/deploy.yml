@@ -1,0 +1,103 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "SCE" ]
+    paths: 
+      - 'docs/**'
+  pull_request:
+    branches: [ "SCE" ]
+    paths: 
+      - 'docs/**'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch: 
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: checkout  
+        uses: actions/checkout@v4
+
+    # 添加 mdbook
+      - name: 添加 mdbook
+        id: mdbook
+        run: cargo install mdbook
+
+    # 初始化目录
+      - name: 设置环境
+        id: setup
+        run: |
+          cd docs
+          mkdir -p book
+          cd ..
+          echo "DEPLOY_NEEDED=true" >> $GITHUB_ENV
+          
+    # 构建mdbook
+      - name: 构建文档
+        id: build
+        run: |
+          echo "Building Chinese Documentation"
+          cd mdbook_zh
+          mdbook build --desr-dir ../docs/book
+
+    # 部署
+      - name: 部署到 pages
+        # if: env.DEPLOY_NEEDED == true
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          # github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          keep_files: false
+          force_orphan: true  # 确保只保留当前部署内容
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+
+        
+  
+    
