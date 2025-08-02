@@ -1,13 +1,23 @@
 # GNU GENERAL PUBLIC LICENSE
 ##### Version 3, 29 juin 2007
 
->Ces termes de licence en français ne sont fournis qu'à titre indicatif. Sur le plan juridique, **la version originale en anglais reste toujours la version autoritative**. En cas d'ambiguïté, veuillez vous référer au texte original en anglais.
-
----
-
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Toute personne est autorisée à copier et distribuer des copies conformes
  de ce document de licence, mais la modifier n'est pas autorisé.
+
+## Déclaration du traducteur
+
+**This is an unofficial French translation of the GNU General Public License.
+It was not published by the Free Software Foundation,
+and therefore cannot legally describe the distribution terms of software licensed under the GNU GPL - only the original English text of the GNU GPL has this effect.
+However, we hope this translation can help Simplified Chinese users better understand the GNU GPL.**
+
+*Voici une traduction française non officielle de la GNU General Public License.*
+*Elle n'a pas été publiée par la Free Software Foundation,*  
+*et ne peut donc pas avoir de valeur juridique pour définir les conditions de distribution*  
+*des logiciels sous GNU GPL — seul le texte original en anglais de la GNU GPL fait foi.*  
+*Cependant, nous espérons que cette traduction aidera*  
+*les utilisateurs chinois à mieux comprendre la GNU GPL.* 
 
 ## Préambule
 
