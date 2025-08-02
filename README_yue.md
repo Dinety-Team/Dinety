@@ -1,5 +1,6 @@
 # Dinety
 
+> [English](./README.md)
 > [简体中文](./README_zh.md)
 > [Français](README_fr.md)
 > [日本語](./README_ja.md)
@@ -7,6 +8,7 @@
 > [한국어](./README_ko.md)
 > [Deutsch](./README_de.md)
 > [Русский](./README_ru.md)
+> [文言文本](./README_wen.md)
 
 關於維度嘅故事導向節奏遊戲。
 
