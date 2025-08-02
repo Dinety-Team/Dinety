@@ -1,9 +1,9 @@
 # Dinety 
 
-> [简体中文](./README_zh.md)
 > [Français](README_fr.md)
 > [日本語](./README_ja.md)
 > [한국어](./README_ko.md)
+
 > [粵語](./README_yue.md)
 > [Deutsch](./README_de.md)
 > [Русский](./README_ru.md)
@@ -30,11 +30,11 @@
 1. 从 [GitHub 发布页面](https://github.com/Dinety-Team/Dinety/releases/)中下载 安装包 (`.apk`).
 2. 打开安装包安装.
 
-### 注意事项
-
-安装与/或运行过程中可能会弹出病毒警告以阻止游戏的安装和/或运行. 如果出现, 可以按照以下方法解决: 
-- Windows: 关闭设备上的杀毒软件 (例如: Windows Defender) 或将程序添加到白名单.
-- Android: 断网安装.
+>### 注意
+>安装与/或运行过程中可能会弹出病毒警告以阻止游戏的安装和/或运行. 如果出现, 可以按照以下方法解决: 
+>### 解决方法
+>- Windows: 关闭设备上的杀毒软件 (例如: Windows Defender) 或将程序添加到白名单.
+>- Android: 断网安装.
 
 ## 从源代码构建 (尚未可用 & Windows only)
 
