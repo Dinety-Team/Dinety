@@ -19,6 +19,8 @@ However, we hope this translation can help Simplified Chinese users better under
 *Cependant, nous espérons que cette traduction aidera*  
 *les utilisateurs chinois à mieux comprendre la GNU GPL.* 
 
+La licence publique générale GNU (GNU GPL) langue originale: anglais https://www.gnu.org/licenses/gpl-3.0.html
+
 ## Préambule
 
   La GNU General Public License est une licence libre, copyleft, pour
