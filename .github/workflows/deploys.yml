@@ -1,48 +1,64 @@
-name: Deploy mdbook to GitHub Pages
+name: Deploy Multi-language Books with Navigation
 
 on:
   push:
-    branches: [SCE]
-    # 添加路径过滤：只有指定目录/文件更改时才触发
+    branches: [main]
     paths:
       - 'docs/**'
       - '.github/workflows/deploy.yml'
-  workflow_dispatch:   # 保留手动触发选项
 
 jobs:
-  deploy:
-    # 添加条件判断：仅当 mdbook 文件有变更时才运行
-    if: ${{ contains(github.event.head_commit.modified, 'docs/mdbook_zh/src/') || contains(github.event.head_commit.modified, 'docs/mdbook_zh/book.toml') || contains(github.event.head_commit.added, 'docs/mdbook_zh/src/') || contains(github.event.head_commit.modified, 'docs/mdbook_en/src/') || contains(github.event.head_commit.modified, 'docs/mdbook_en/book.toml/') || contains(github.event.head_commit.modified, 'docs/mdbook_zh/book.toml') || contains(github.event.head_commit.added, 'docs/mdbook_zh/src/') }}
-    
+  build:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        lang: [zh, en]
-
+        lang: [en, zh]   # 支持扩展
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v1
         with:
-          mdbook-version: "0.4.52"
+          mdbook-version: "0.4.34"
 
-      - name: Build mdbook_${{ matrix.lang }}
+      - name: Build ${{ matrix.lang }} book
         run: |
-            cd docs/mdbook_${{ matrix.lang }}
-            mdbook build --dest-dir ../../../book/${{ matrix.lang }}
+          cd docs/mdbook_${{ matrix.lang }}
+          mdbook build --dest-dir ../../../book/${{ matrix.lang }}
 
-      - name : Prepare Deployment
-        if: matrix.lang == 'en'
+      - name: Upload book artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: book-${{ matrix.lang }}
+          path: book/${{ matrix.lang }}
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build   # 依赖所有构建作业
+    steps:
+      - name: Download all book artifacts
+        uses: actions/download-artifact@v3
+        with:
+          path: artifacts
+
+      - name: Reconstruct book directories
         run: |
-          mkdir -p public/
-          cp -r book/* public/ || echo "No build output"
+          mkdir -p public
+          # 将每个语言制品移动到public目录
+          for lang in en zh; do
+            if [ -d "artifacts/book-$lang" ]; then
+              mv "artifacts/book-$lang" "public/$lang"
+            fi
+          done
+
+      - name: Add navigation page
+        run: |
           cp docs/index.html public/index.html
-          #if [ -d ""]
-
-          # 添加重定向首页（可选）
-          # echo '<!DOCTYPE html><meta http-equiv="refresh" content="0; url=/en/">' > public/index.html
+          # 如果有其他静态资源，也复制过来
+          if [ -d "docs/assets" ]; then
+            cp -r docs/assets public/
+          fi
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
