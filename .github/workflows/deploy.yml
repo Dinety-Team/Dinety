@@ -20,6 +20,15 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch: 
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+
+
+
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -61,7 +70,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./docs
           keep_files: false
           force_orphan: true  # 确保只保留当前部署内容
 
