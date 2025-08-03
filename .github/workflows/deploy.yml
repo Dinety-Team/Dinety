@@ -60,7 +60,7 @@ jobs:
         # if: env.DEPLOY_NEEDED == true
         uses: peaceiris/actions-gh-pages@v4
         with:
-          # github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           keep_files: false
           force_orphan: true  # 确保只保留当前部署内容
