@@ -10,6 +10,7 @@ on:
     paths: 
       - 'docs/**'
       - 'mdbook_zh/**'
+      - '.github/**'
   pull_request:
     branches: [ "SCE" ]
     paths: 
@@ -52,7 +53,7 @@ jobs:
         run: |
           echo "Building Chinese Documentation"
           cd mdbook_zh
-          mdbook build --desr-dir ../docs/book
+          mdbook build --dest-dir ../docs/book
 
     # 部署
       - name: 部署到 pages
