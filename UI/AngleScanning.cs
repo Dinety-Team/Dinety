@@ -9,7 +9,7 @@ using Android.Views;
 using Android.Content.Res;
 using Android.OS;
 
-namespace YourAppNamespace
+namespace Dinety
 {
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
