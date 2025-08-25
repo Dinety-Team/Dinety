@@ -1,6 +1,6 @@
 # Dinety
 
-Lang Select
+**Lang Select**
 
 | [简体中文](./README_zh.md) | [Français](README_fr.md) | [日本語](./README_ja.md) | [한국어](./README_ko.md) |
 |:-:|:-:|:-:|:-:|
