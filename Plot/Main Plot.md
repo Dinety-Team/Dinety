@@ -10,22 +10,20 @@
 > - The final plot setting of Dinety shall be subject to the actual content when the game is officially released, and the information in this document does not constitute a final commitment.
 ---
 # Central Theme
-## [Chapter 0 :](./Need/cpt0/cpt0 In Detail.md)
+## [Chapter 0 :](./Need/cpt0/cpt0 In-Detail.md)
 ### The birth of Dimensions in the Eternal Universe
 
 
-## [Chapter 2 :](./Need/cpt2/cpt2 In Detail.md)
+## [Chapter 2 :](./Need/cpt2/cpt2 In-Detail.md)
 ### The introduction of Dimentions and who want to destroy the Dimensions
 
-## [Chapter 3 :](./Need/cpt3/cpt3 In Detail.md)
+## [Chapter 3 :](./Need/cpt3/cpt3 In-Detail.md)
 ### 
 
-## [Chapter 4 :](./Need/cpt4/cpt4 In Detail.md)
+## [Chapter 4 :](./Need/cpt4/cpt4 In-Detail.md)
 ### 
 
-## [Chapter 5 :](./Need/cpt5/cpt5 In Detail.md)
+## [Chapter 5 :](./Need/cpt5/cpt5 In-Detail.md)
 ###
 ---
 ## Plot Framework Copyright (c) 2025 Dinety Team
----
- **- Dinety Team**
