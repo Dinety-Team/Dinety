@@ -13,21 +13,26 @@
 
 # Central Theme
 
-## [Chapter 0 :](../Need/cpt0/cpt0%20In%20Detail.md)
-### The birth of Dimensions in the Eternal Universe
+## [Chapter 0 :](../Need/cpt0/cpt0%20In%20Detail.md)  
+#### In the womb of eternity, a nascent dimension exhales its first pulse of light.  
 
+## [Chapter 1 :](../Need/cpt1/cpt1%20In%20Detail.md)  
+#### RW1wdHkgc2VlZHMgZ2l2ZSBiaXJ0aCB0byB0aGUgZmlyc3QgZGltZW5zaW9uLCBhbmQgYSBuYW1lIGVyYXNlZCBieSBoaXN0b3J5  
 
-## [Chapter 2 :](../Need/cpt2/cpt2%20In%20Detail.md)
-### The introduction of Dimensions and who want to destroy the Dimensions
+## [Chapter 2 :](../Need/cpt2/cpt2%20In%20Detail.md)  
+#### The scroll of existence unfurls—revealing the insectile flaw stitched into every dimension, and the solitary savior who bears the sky upon his shoulders.  
 
-## [Chapter 3 :](../Need/cpt3/cpt3%20In%20Detail.md)
-### (To be added)
+## [Chapter 3 :](../Need/cpt3/cpt3%20In%20Detail.md)  
+#### Through the lens of the dying savior: galaxies unravel, humanity misreads the silence for betrayal, and a final act of mercy is mistaken for surrender.  
 
-## [Chapter 4 :](../Need/cpt4/cpt4%20In%20Detail.md)
-### (To be added)
+## [Side Story :](../Need/side/Indigestibility%20Pray.md)  
+#### After the blade and the betrayal, a prayer—indigestible by any god—floats upward: “Let the dimensions perish, for they have already slain me.”  
 
-## [Chapter 5 :](../Need/cpt5/cpt5%20In%20Detail.md)
-### (To be added)
+## [Chapter 4 :](../Need/cpt4/cpt4%20In%20Detail.md)  
+#### The great devourer awakens; dimensions fold like parchment in flame. The savior closes his eyes, and eternity forgets his name.  
+
+## [Chapter 5 :](../Need/cpt5/cpt5%20In%20Detail.md)  
+#### In the hollow left by vanished dimensions, nameless relics hum lullabies to a void that once held worlds.
 ---
 
 ## Plot Framework Copyright (c) 2025 Dinety Team
