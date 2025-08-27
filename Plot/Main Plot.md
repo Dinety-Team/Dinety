@@ -28,7 +28,6 @@
 
 ## [Chapter 5 :](../Need/cpt5/cpt5%20In%20Detail.md)
 ### (To be added)
-
 ---
 
 ## Plot Framework Copyright (c) 2025 Dinety Team
