@@ -16,7 +16,7 @@
 ## [Chapter 0 :](../Need/cpt0/cpt0%20In%20Detail.md)  
 #### In the womb of eternity, a nascent dimension exhales its first pulse of light.  
 
-## [Chapter 1 :](../Need/cpt1/cpt1%20In%20Detail.md)  
+## Q2hhcHRlciAxIA== :
 #### RW1wdHkgc2VlZHMgZ2l2ZSBiaXJ0aCB0byB0aGUgZmlyc3QgZGltZW5zaW9uLCBhbmQgYSBuYW1lIGVyYXNlZCBieSBoaXN0b3J5  
 
 ## [Chapter 2 :](../Need/cpt2/cpt2%20In%20Detail.md)  
@@ -24,9 +24,6 @@
 
 ## [Chapter 3 :](../Need/cpt3/cpt3%20In%20Detail.md)  
 #### Through the lens of the dying savior: galaxies unravel, humanity misreads the silence for betrayal, and a final act of mercy is mistaken for surrender.  
-
-## [Side Story :](../Need/side/Indigestibility%20Pray.md)  
-#### After the blade and the betrayal, a prayer—indigestible by any god—floats upward: “Let the dimensions perish, for they have already slain me.”  
 
 ## [Chapter 4 :](../Need/cpt4/cpt4%20In%20Detail.md)  
 #### The great devourer awakens; dimensions fold like parchment in flame. The savior closes his eyes, and eternity forgets his name.  
