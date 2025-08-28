@@ -31,6 +31,3 @@ When using third-party songs:
    - Non-profit community sharing
 
 > **Disclaimer**: These terms don't override local copyright laws. When using non-Dinety content, compliance is solely your responsibility.
-
----
-**Charts Design Copyright (c) 2025 Dinety Team**
