@@ -30,6 +30,3 @@
 
 ## [Chapter 5 :](../Need/cpt5/cpt5%20In%20Detail.md)  
 #### In the hollow left by vanished dimensions, nameless relics hum lullabies to a void that once held worlds.
----
-
-## Plot Framework Copyright (c) 2025 Dinety Team
