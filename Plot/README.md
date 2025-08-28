@@ -18,7 +18,3 @@ Any individual or organization may reconstruct, retell, or adapt the Dinety plot
 2. All derivative works comply with the GNU General Public License (GPL) v3.0 as stated on the Dinety project homepage.
 
 > Last updated: [2025.08.27]
-
----
-
-**Plot Framework (c) 2025 Dinety Team**
