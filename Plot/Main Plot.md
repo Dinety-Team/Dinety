@@ -1,6 +1,6 @@
 # Dinety Main Plot
 
-# Central Theme
+## Central Theme
 
 **The 'Dinety' chronicles the uncharted annals of dimensionality, etched across a universe that memory never mapped.**
 
