@@ -1,1 +1,0 @@
-Why Open Source
