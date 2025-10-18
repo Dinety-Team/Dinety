@@ -72,7 +72,7 @@ cargo build --release
 Commit an **Issue** to report bugs or provide suggestions.
 
 ---
-## License[:](egg.md)
+## License[:](./Nothing/egg.md)
 
 This project is licensed under the [GPL v3.0 License](LICENSE.md).
 
