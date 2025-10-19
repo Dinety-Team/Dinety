@@ -15,27 +15,55 @@ Contributing to open source is a continuous learning journey. You collaborate wi
 **Questions**:
 
 #### 1. What is a key difference between open source and proprietary software mentioned in the passage?
+
    **A**. Open source software is always free of charge, while proprietary software is not.
+
    **B**. Open source code is publicly accessible, while proprietary code is kept secret.
+
    **C**. Open source software is more secure than proprietary software.
+
    **D**. Proprietary software is developed faster than open source software.
+
 #### 2. Which of the following is NOT cited in the passage as an example of open source technology foundational to the internet?
+
    **A**. Linux servers
+
    **B**. Apache web server
+
    **C**. Python programming language
+
    **D**. Various databases
+
 #### 3. What is the most likely meaning of the phrase "scratching a personal itch" in Paragraph 3?
+
    **A**. Working to earn a financial reward.
+
    **B**. Solving a problem that one personally faces.
+
    **C**. Gaining public fame and recognition.
+
    **D**. Following a trend to fit in with peers.
+
 #### 4. According to the author, why do major corporations contribute to open source projects?
+
    **A**. They are primarily motivated by altruism and charity.
+
    **B**. They are legally required to share their modifications.
+
    **C**. They have a strong business interest in maintaining the tools they depend on.
+
    **D**. They aim to prevent individual developers from participating.
+
 #### 5. Based on the overall tone, content, and the author's personal experiences, who is the most likely writer of this passage?
+
    **A**. A journalist reporting on technology trends.
+
    **B**. A university student studying computer science.
+
    **C**. An open source software developer and contributor.
+
    **D**. a corporate executive managing a software company.
+
+---
+
+[Answer](ans.md)
