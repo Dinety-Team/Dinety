@@ -1,5 +1,6 @@
 # Dinety
 #### Language Select
+[English](./READMEs/README_en.md)
 [简体中文](./READMEs/README_zh.md)  
 [中文(粤语)](./READMEs/README_yue.md)
 [繁體中文(香港,澳門)](./READMEs/README_hk.md)
