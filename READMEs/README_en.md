@@ -62,7 +62,7 @@ Dinety will be available on the following platforms:
 
 ## License
 
-You must use Dinety’s open-source content in accordance with the terms of the [Apache 2.0 Open Source License](Dinety/LICENSE)
+You must use Dinety’s open-source content in accordance with the terms of the [Apache 2.0 Open Source License](../LICENSE)
 [Original text of the licence](https://www.apache.org/licenses/LICENSE-2.0).
 
 ---
