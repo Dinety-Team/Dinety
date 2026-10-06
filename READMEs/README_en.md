@@ -12,6 +12,10 @@ You can solve puzzles using the clues provided to advance the game’s storyline
 
 We will be including a wide variety of songs, as well as tracks taken from other games, in **Single Mode**, and we will do our utmost to make the note charts as engaging as possible.
 
+## What is included in this repository?
+
+This repository contains Dinety’s base build code and the chart generator. If you are looking for Dinety’s UI code and resources, please visit 'Dinety-Team/Dinety-UI'.
+
 ## Technology Stack
 
 - Language: GDScript
