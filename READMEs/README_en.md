@@ -20,8 +20,10 @@ We will be including a wide variety of songs, as well as tracks taken from other
 - Audio: AudioStreamPlayer / AudioServer
 - Data Storage: JSON / ConfigFile
 - Build & Export: Godot Export Templates
+- Modeling: Blender 5.2
+- IDE: Visual Studio Code
 - Version Control: Git + GitHub
-- Platforms: Windows, macOS, Linux, Android, iOS
+- Platforms: Windows, macOS, Linux, Android, iOS / iPadOS
 
 ## Download
 
@@ -36,7 +38,7 @@ Dinety will be available on the following platforms:
 
 **Mobile Version**
 - Android
-- iOS
+- iOS / iPadOS
 
 > **Notice**
 >
@@ -48,7 +50,7 @@ Dinety will be available on the following platforms:
 > | macOS | macOS 10.13 or later |
 > | Linux | Ubuntu 20.04 or later |
 > | Android | Android 5 or later |
-> | iOS | iOS 12 or later |
+> | iOS / iPadOS | iOS 12 / iPadOS 13 or later |
 >
 > **Recommended version:**
 >
@@ -58,7 +60,7 @@ Dinety will be available on the following platforms:
 > | macOS | macOS 10.15 or later |
 > | Linux | Ubuntu 22.04 or later |
 > | Android | Android 6 or later |
-> | iOS | iOS 16 or later |
+> | iOS / iPadOS | iOS 16 / iPadOS 16 or later |
 
 ## License
 
