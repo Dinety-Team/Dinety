@@ -14,7 +14,7 @@ We will be including a wide variety of songs, as well as tracks taken from other
 
 ## What is included in this repository?
 
-This repository contains Dinety’s base build code and the chart generator. If you are looking for Dinety’s UI code and resources, please visit `Dinety-Team/Dinety-UI`.
+This repository contains Dinety’s base build code and the chart generator. For Dinety’s UI code and resources, please visit `Dinety-Team/Dinety-UI`.
 
 ## Technology Stack
 
